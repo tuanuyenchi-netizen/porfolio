@@ -23,6 +23,11 @@ This GitHub portfolio showcases my **academic projects, self-learning exercises,
 
 Welcome! This repository showcases my data analysis and programming
 projects.
+<details>
+<summary><b>👋 About Me</b></summary>
+
+I am a student majoring in International Economics at FTU with a GPA of 3.6...
+</details>
 
 ## 👤 About Me
 
