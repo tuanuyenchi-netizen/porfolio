@@ -6,8 +6,14 @@
     <td width="60%">
       <h2>Hi, I'm Chi 👋</h2>
       <p>
-        I'm a student passionate about <b>Data Analysis</b> and <b>Python</b>.
-        This repository contains my academic projects and learning journey.
+        I am currently a student majoring in **International Economics** at **Foreign Trade University (FTU)**, with a strong academic background and a **GPA of 3.6**.  
+Throughout my studies, I have developed a solid foundation in **economic analysis, international trade, and quantitative methods**, along with a growing interest in **data analysis and applied economics**.
+
+I have hands-on **internship experience in the logistics sector**, where I was exposed to **supply chain operations, documentation processing, and coordination with partners and clients**. This experience helped me better understand how economic theories are applied in real-world business and logistics environments.
+
+In addition to my major, I actively work with **Python and data analysis tools** to analyze academic datasets, particularly in areas such as **student performance, GPA analysis, and basic data visualization**. I am highly motivated, detail-oriented, and always eager to improve my technical and analytical skills.
+
+This GitHub portfolio showcases my **academic projects, self-learning exercises, and data analysis work**, reflecting my commitment to continuous learning and my ambition to pursue a career in economics, data analysis, or related fields.
       </p>
     </td>
   </tr>
