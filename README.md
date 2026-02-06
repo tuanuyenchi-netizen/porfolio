@@ -1,33 +1,33 @@
-# porfolio
-# Exploratory Data Analysis with Python
+# Data Portfolio -- Your Name
 
-## Overview
-This project performs Exploratory Data Analysis (EDA) to understand the structure,
-distribution, and patterns in the dataset using Python.
+Welcome! This repository showcases my data analysis and programming
+projects.
 
-## Dataset
-- Source: (describe your data source)
-- Number of records: 
-- Number of features: 
+## 👤 About Me
 
-## Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+-   Major: Information Technology / Data / Economics (edit)
+-   Skills: Python, Pandas, NumPy, SQL, Git
+-   Interests: Data Analysis, Machine Learning, Visualization
 
-## Main Steps
-1. Load and inspect the dataset
-2. Handle missing values
-3. Compute descriptive statistics
-4. Visualize data using histograms, box plots, and scatter plots
-5. Draw insights from the analysis
+## 🧰 Skills
 
-## Results
-- Observed data distribution and central tendency
-- Identified potential outliers
-- Explored relationships between variables
+-   **Programming:** Python
+-   **Data Analysis:** Pandas, NumPy
+-   **Visualization:** Matplotlib
+-   **Tools:** Git, GitHub, Jupyter
 
-## How to Run
-```bash
-pip install pandas numpy matplotlib
+## 📂 Projects
+
+### 1. Student Score Analysis
+
+-   Description: Analyze student scores using Pandas.
+-   Techniques: groupby, filtering, aggregation.
+
+### 2. GPA Statistics
+
+-   Description: Calculate GPA statistics by major and gender.
+
+## 📬 Contact
+
+-   Email: your_email@example.com
+-   GitHub: https://github.com/yourusername
