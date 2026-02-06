@@ -1,4 +1,4 @@
-# Data Portfolio -- Your Name
+# Data Portfolio -- Tuan Uyen Chi
 
 Welcome! This repository showcases my data analysis and programming
 projects.
