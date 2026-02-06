@@ -1,6 +1,6 @@
 <!-- COVER IMAGE -->
 <p align="center">
-  <img src="cover.png" alt="Portfolio Cover" width="100%">
+  <img src="cover.png" alt="cover" width="100%">
 </p>
 
 # Hi, I'm Chi 👋  
