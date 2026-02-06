@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="assets/banner.png"/>
+</p>
+
+<h1 align="center">Hi, I'm Chi 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=
+  Marketing+%26+Communications;
+  Led+3+Media+Events;
+  Logistics+Intern"/>
+</p>
+
 # Data Portfolio -- Tuan Uyen Chi
 
 Welcome! This repository showcases my data analysis and programming
@@ -67,15 +80,3 @@ To become a **Data Analyst / Business Analyst** who applies data analysis to opt
 -   Email: tuanuyenchi@gmail.com
 -   Phone: 0912272711
 
-<p align="center">
-  <img src="assets/banner.png"/>
-</p>
-
-<h1 align="center">Hi, I'm Minh 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=
-  Marketing+%26+Communications;
-  Led+3+Media+Events;
-  Logistics+Intern"/>
-</p>
