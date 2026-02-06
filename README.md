@@ -65,4 +65,4 @@ To become a **Data Analyst / Business Analyst** who applies data analysis to opt
 ## 📬 Contact
 
 -   Email: tuanuyenchi@gmail.com
-
+-   Phone: 0912272711
