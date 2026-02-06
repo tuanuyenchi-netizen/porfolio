@@ -5,9 +5,9 @@ projects.
 
 ## 👤 About Me
 
--   Major: Information Technology / Data / Economics (edit)
--   Skills: Python, Pandas, NumPy, SQL, Git
--   Interests: Data Analysis, Machine Learning, Visualization
+-   Major: International Economics
+-   Skills: Python, Pandas, NumPy, SQL, Git, Logistic
+-   Interests: Data Analysis, Visualization
 
 ## 🧰 Skills
 
@@ -29,5 +29,5 @@ projects.
 
 ## 📬 Contact
 
--   Email: your_email@example.com
--   GitHub: https://github.com/yourusername
+-   Email: tuanuyenchi@gmail.com
+
