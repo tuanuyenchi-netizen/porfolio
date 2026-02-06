@@ -1,15 +1,9 @@
+<!-- COVER IMAGE -->
 <p align="center">
-  <img src="White and Beige Minimalist Graphic Designer Professional Cv Resume (1).pdf"/>
+  <img src="cover.png" alt="Portfolio Cover" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Chi 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=
-  Marketing+%26+Communications;
-  Led+3+Media+Events;
-  Logistics+Intern"/>
-</p>
+# Hi, I'm Chi 👋  
 
 # Data Portfolio -- Tuan Uyen Chi
 
