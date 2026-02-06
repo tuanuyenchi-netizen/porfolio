@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png"/>
+  <img src="White and Beige Minimalist Graphic Designer Professional Cv Resume (1).pdf"/>
 </p>
 
 <h1 align="center">Hi, I'm Chi 👋</h1>
