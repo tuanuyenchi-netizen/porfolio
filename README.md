@@ -23,16 +23,13 @@ This GitHub portfolio showcases my **academic projects, self-learning exercises,
 
 Welcome! This repository showcases my data analysis and programming
 projects.
-<details>
-<summary><b>👋 About Me</b></summary>
-
-I am a student majoring in International Economics at FTU with a GPA of 3.6...
-</details>
 
 ## 👤 About Me
 
 -   Major: International Economics
+-   School: Foreign Trade University
 -   Skills: Python, Pandas, NumPy, SQL, Git, Logistic
+-   GPA: 3.6
 -   Interests: Data Analysis, Visualization
 
 ## 🧰 Skills
@@ -60,8 +57,8 @@ I am a student majoring in International Economics at FTU with a GPA of 3.6...
 
 ## 🚚 Internship Experience
 ### Logistics Intern
-**Company:** (Add company name)  
-**Duration:** (Add duration)
+**Company:** AnVu Import&Export
+**Duration:** 3 months 
 
 **Responsibilities:**
 - Assisted in managing shipment data and inventory records
