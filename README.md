@@ -1,9 +1,17 @@
-<!-- COVER IMAGE -->
-<p align="center">
-  <img src="cover.png" alt="cover" width="100%">
-</p>
-
-# Hi, I'm Chi 👋  
+<table>
+  <tr>
+    <td width="40%">
+      <img src="cover.png" width="100%"/>
+    </td>
+    <td width="60%">
+      <h2>Hi, I'm Chi 👋</h2>
+      <p>
+        I'm a student passionate about <b>Data Analysis</b> and <b>Python</b>.
+        This repository contains my academic projects and learning journey.
+      </p>
+    </td>
+  </tr>
+</table>
 
 # Data Portfolio -- Tuan Uyen Chi
 
